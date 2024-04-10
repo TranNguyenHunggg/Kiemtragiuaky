@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <id>ABC123</id>
+        <name>John Doe</name>
+        <address>123 Main St, City</address>
+        <dateOfBirth>1990-05-15</dateOfBirth>
+    </student>
+    <student>
+        <id>DEF456</id>
+        <name>Jane Smith</name>
+        <address>456 Elm St, Town</address>
+        <dateOfBirth>1988-10-20</dateOfBirth>
+    </student>
+    <student>
+        <id>GHI789</id>
+        <name>Michael Johnson</name>
+        <address>789 Oak St, Village</address>
+        <dateOfBirth>1995-03-08</dateOfBirth>
+    </student>
+</students>
